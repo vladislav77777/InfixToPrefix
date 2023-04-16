@@ -5,7 +5,7 @@ Your implementation must include Stack ADT (as an interface or an abstract class
 
 Input<br>
 The single line of input contains correct mathematical expression. The expression contains only single-digit decimal number (e.g. 0, 5, 9), subtraction (-), division (/), multiplication (*), addition (+) operators, left and right parentheses, maximum and minimum functions with two arguments: max ( <arg1> , <arg2> ) and min ( <arg1> , <arg2> )<br>
-All tokens are separated by spaces.
+All tokens are separated by spaces.<br>
 Output<br>
 Print the integer value of the input expression.<br>
 <br>
