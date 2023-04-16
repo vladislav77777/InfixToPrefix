@@ -9,21 +9,22 @@ left and right parentheses, maximum and minimum functions with two arguments: ma
 All tokens are separated by spaces.
 Output
 Print the integer value of the input expression.
-
-Examples
-input
-1 + 2 * min ( 3 , 5 ) - 4 / 2
-output
-5
-input
-1 + 2 + 3 + 4 + 5
-output
-15
-input
-1 * 4 / 2 * 6 / 3
-output
-4
-input
-3 - 2 - 1
-output
-0
+<br>
+Examples:<br>
+<br>
+input<br>
+1 + 2 * min ( 3 , 5 ) - 4 / 2<br>
+output<br>
+5<br>
+input<br>
+1 + 2 + 3 + 4 + 5<br>
+output<br>
+15<br>
+input<br>
+1 * 4 / 2 * 6 / 3<br>
+output<br>
+4<br>
+input<br>
+3 - 2 - 1<br>
+output<br>
+0<br>
